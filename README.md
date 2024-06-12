@@ -2,6 +2,7 @@
 ## Project description:
 The research team at my organization needs to update the file permissions for specific files and directories within the projects directory. Currently, the permissions do not align with the required level of authorization. Ensuring these permissions are accurate will enhance system security. To achieve this, I completed the following tasks:
 
+## Project walk-through:
 ### Check File and Directory Details
 
 The following code demonstrates how I used Linux commands to identify the existing permissions for a specific directory in the file system:
